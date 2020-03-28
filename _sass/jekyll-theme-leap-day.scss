@@ -30,16 +30,11 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:30px;
 }
 
 h2 {
-  font-size: 24px;
-  color:#393939;
-}
-
-h3, h4, h5, h6 {
-  color:#666666;
+  font-size: 26px;
 }
 
 h3 {
@@ -47,8 +42,13 @@ h3 {
   line-height: 24px;
 }
 
+h4 {
+  font-size: 16px;
+  line-height: 20px;
+}
+
 a {
-  color:#4276b6;
+  color:#0072ff;
   font-weight:400;
   text-decoration:none;
 }
@@ -156,7 +156,7 @@ header {
   right:0;
   width: 100%;
   text-align: center;
-  background: url(../images/background.png) #4276b6;
+  background: #00377a;
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
   z-index:99;
   -webkit-font-smoothing:antialiased;
@@ -185,9 +185,9 @@ header {
 #banner {
   z-index: 100;
   left:0;
-  right:50%;
+  right:0;
   height: 50px;
-  margin-right:-382px;
+  margin-right:;
   position: fixed;
   top: 115px;
   background: #ffcc00;
