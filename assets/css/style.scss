@@ -1,5 +1,7 @@
 ---
 ---
+
+@import 'jekyll-theme-leap-day';
 h1 {
   font-size:30px;
 }
@@ -44,6 +46,7 @@ header {
   z-index:99;
   -webkit-font-smoothing:antialiased;
   min-height: 76px;
+}
 
 #banner {
   z-index: 100;
@@ -80,4 +83,3 @@ header {
       background-color: #ffeca0;
     }
   }
-@import 'jekyll-theme-leap-day';
