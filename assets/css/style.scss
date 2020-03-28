@@ -1,7 +1,9 @@
----
----
+    ```scss
+    ---
+    ---
 
-@import 'jekyll-theme-leap-day';
+    @import "{{ 'jekyll-theme-leap-day' }}";
+    ```
 h1 {
   font-size:30px;
 }
