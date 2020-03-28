@@ -3,14 +3,14 @@ layout: default
 ---
 
 # **Sport References & Resources**
-## Websites and information any sports fan might ever need - all in one place.
+Websites and information any sports fan might ever need - all in one place.
 
 <hr>
 
 ### **Fantasy Links :**
-    - Yahoo Fantasy
-    - ESPN Fantasy
-    - NFL Fantasy
+    Yahoo Fantasy
+    ESPN Fantasy
+    NFL Fantasy
 
 <hr>
 
@@ -19,7 +19,9 @@ layout: default
     - NFL
     - MLB
 
-###### ***College Leagues :***
+<hr>
+
+### **College Leagues :**
     - NCAA
     - NJCAA
     - NAIA
@@ -30,22 +32,17 @@ layout: default
 <hr>
 
 ### **Popular Sites + Blogs :**
-    - ESPN
-    - Yahoo Sports
-    - Pound4Pound
+    ESPN
+    Yahoo Sports
+    Pound4Pound
 
 <hr>
 
 ### **Miscellaneous Needs :**
-    - Betting Sites
-    - Typical Bets Defined
-    - iCal feed of sports schedule
+    Betting Sites
+    Typical Bets Defined
+    iCal feed of sports schedule
 
-
-
-
-
-<hr>
 
 _yay_
 
