@@ -1,10 +1,47 @@
 ---
 layout: default
+style:
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 26px;
+}
+
+h3 {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+h4 {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+p {
+  color: #6e0700
+}
+
+a {
+  color: #0072ff;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+a small {
+  font-size: 11px;
+  color: #333333;
+  margin-top: -0.6em;
+  display: block;
+}
+
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
+[Link to another page](./another_page_2.html).
 
 There should be whitespace between paragraphs.
 

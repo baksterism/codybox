@@ -1,4 +1,5 @@
 ---
+@import "jekyll-theme-leap-day";
 layout: default
 ---
 
