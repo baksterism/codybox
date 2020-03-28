@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# **References & Resources**
+## **Sport References & Resources**
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Sport References & Resources
@@ -17,9 +17,3 @@ the worldwide leader in sports.
 
 **[Pound4Pound](http://pound4pound.com)**
 The premiere site for Boxing news and updates.
-
-_yay_
-
-_[Link to another page](./another_page_2.html)._
-
-[back](./)
